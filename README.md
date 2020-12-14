@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # react-typescript-boilerplate
 a react-typescript boilerplate
 =======
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> e2f5093eaaab126903194c89ea20c37bb953c0fd
+=======
+# ligutanjan
+Portfolio
+>>>>>>> bdb8aa719626a26f6747868889afaf823ef8eee5
