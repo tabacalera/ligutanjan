@@ -7,7 +7,7 @@ const LandingPage = (props) => {
     <Row justify="center" style={{marginTop:"50px"}}>
       <Col span={22}>
         <Row gutter={24} justify="center" style={{textAlign:"center"}}>
-          <Title>Jan Michael Ligutan's Portfolio Manager</Title>
+          <Title style={{fontFamily:"-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif"}}>Jan Michael Ligutan's Portfolio Manager</Title>
           <img src="/assets/images/coming-soon.jpg" style={{width:"90%"}} alt="Coming Soon"></img>
         </Row>
       </Col>
