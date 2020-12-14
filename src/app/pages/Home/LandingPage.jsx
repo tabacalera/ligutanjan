@@ -1,15 +1,9 @@
-import React from 'react';
+import React from "react";
 
-const LandingPage = props => {
-    return (
-        <div>
-            Hello
-        </div>
-    );
+const LandingPage = (props) => {
+  return <div>A react-typescript-redux boilerplate</div>;
 };
 
-LandingPage.propTypes = {
-    
-};
+LandingPage.propTypes = {};
 
 export default LandingPage;
